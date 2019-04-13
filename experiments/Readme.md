@@ -1,4 +1,5 @@
 # Experiments
+- Jupyter kernel python2.7
 - The jupter is typesetting with jupyterthemes 0.20.0 (optional)<br>
 jupyterthemes setting codes:
 ```
