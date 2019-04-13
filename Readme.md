@@ -50,7 +50,7 @@ python3 get_rules.py [--minsupc 3,--conf 0.6]
 ```
 - Extract semantic concepts with CMR:
 ```
-python3 extract_semantics.py [4]
+python2 extract_semantics.py [4]
 ```
 The option is the number of threads; Larger, faster; Please set according to the number of your CPU cores.
 
@@ -58,9 +58,9 @@ The option is the number of threads; Larger, faster; Please set according to the
 These scripts are adapted from AREL<br>, we add a attention mechanism to attend the inferred concepts.
 To train the VIST model:
 ```
-python train.py --beam_size 3 [--id model_name]
+python2 train.py --beam_size 3 [--id model_name]
 ```
 To test the performance on metrics:
 ```
-python train.py --beam_size 3 --option test --start_from_model data/save/XE/model.pth [--id score_save_path]
+python2 train.py --beam_size 3 --option test --start_from_model data/save/XE/model.pth [--id score_save_path]
 ```
