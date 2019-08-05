@@ -1,10 +1,10 @@
 # Experiments
 - Jupyter kernel python2.7
 - The jupter is typesetting with jupyterthemes 0.20.0 (optional)<br>
-  This will bring beeter visualization.<br>
+This will bring beeter visualization.<br>
 jupyterthemes installing command:
 ```
-pip install jupyterthemes：
+pip install jupyterthemes
 ```
 jupyterthemes setting codes:
 ```
