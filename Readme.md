@@ -1,16 +1,16 @@
 # Visual Storytelling with Corss-Modal Rules
-Code for: Informative Visual Storytelling with Cross-modal Rules
-In procedings of ACM Multimedia 2019
-@inproceedings{li2019informative,
-  title={Informative Visual Storytelling with Cross-modal Rules},
-  author={Li, Jiacheng and Shi, Haizhou and Tang, Siliang and Wu, Fei and Zhuang, Yueting},
-  booktitle={Proceedings of the 27th ACM International Conference on Multimedia},
-  pages={2314--2322},
-  year={2019},
-  organization={ACM}
-}
-The storytelling code is adpated from https://github.com/eric-xw/AREL
-![](https://github.com/passerby233/VSCMR/blob/master/illustration.pdf)
+Code for: Informative Visual Storytelling with Cross-modal Rules <br>
+In procedings of ACM Multimedia 2019 <br>
+@inproceedings{li2019informative, <br>
+  title={Informative Visual Storytelling with Cross-modal Rules}, <br>
+  author={Li, Jiacheng and Shi, Haizhou and Tang, Siliang and Wu, Fei and Zhuang, Yueting}, <br>
+  booktitle={Proceedings of the 27th ACM International Conference on Multimedia}, <br>
+  pages={2314--2322}, <br>
+  year={2019}, <br>
+  organization={ACM} <br>
+} <br>
+The storytelling code is adpated from https://github.com/eric-xw/AREL <br>
+![](https://github.com/passerby233/VSCMR/blob/master/illustration.png)
 
 
 ## Prerequisites 
