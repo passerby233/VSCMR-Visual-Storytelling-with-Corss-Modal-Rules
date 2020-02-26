@@ -2,7 +2,7 @@
 Code for: Informative Visual Storytelling with Cross-modal Rules <br>
 In procedings of ACM Multimedia 2019 <br>
 @inproceedings{li2019informative, <br>
-  title={Informative Visual Storytelling with Cross-modal Rules}, <br>
+\t\ttitle={Informative Visual Storytelling with Cross-modal Rules}, <br>
   author={Li, Jiacheng and Shi, Haizhou and Tang, Siliang and Wu, Fei and Zhuang, Yueting}, <br>
   booktitle={Proceedings of the 27th ACM International Conference on Multimedia}, <br>
   pages={2314--2322}, <br>
